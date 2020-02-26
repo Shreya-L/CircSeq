@@ -1,1 +1,2 @@
-ADD README CONTENT
+CircSeq RNA Pipeline
+
